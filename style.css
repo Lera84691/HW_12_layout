@@ -96,6 +96,7 @@ header {
     padding-right: 22px;
     margin-left: 10px;
     text-decoration: none;
+    display: inline-block;
 }
 
 .local {
@@ -549,7 +550,7 @@ header {
     text-decoration: none;
 }
 
-.footer-lists__list{
+.footer-lists__list {
     margin-top: 21px;
 }
 
@@ -595,3 +596,4 @@ header {
 .question__button:hover {
     color: #f29278; 
 }
+
