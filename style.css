@@ -2,10 +2,10 @@
     font-family: 'Graphik LCG', sans-serif;
     src: url('GraphikLCG-Semibold.eot');
     src: url('GraphikLCG-Semibold.eot?#iefix') format('embedded-opentype'),
-         url('GraphikLCG-Semibold.woff2') format('woff2'),
-         url('GraphikLCG-Semibold.woff') format('woff'),
-         url('GraphikLCG-Semibold.ttf') format('truetype'),
-         url('GraphikLCG-Semibold.svg#GraphikLCG-Semibold') format('svg');
+        url('GraphikLCG-Semibold.woff2') format('woff2'),
+        url('GraphikLCG-Semibold.woff') format('woff'),
+        url('GraphikLCG-Semibold.ttf') format('truetype'),
+        url('GraphikLCG-Semibold.svg#GraphikLCG-Semibold') format('svg');
     font-weight: 600;
     font-style: normal;
     font-display: swap;
@@ -15,10 +15,10 @@
     font-family: 'Graphik LCG', sans-serif;
     src: url('GraphikLCG-Regular.eot');
     src: url('GraphikLCG-Regular.eot?#iefix') format('embedded-opentype'),
-         url('GraphikLCG-Regular.woff2') format('woff2'),
-         url('GraphikLCG-Regular.woff') format('woff'),
-         url('GraphikLCG-Regular.ttf') format('truetype'),
-         url('GraphikLCG-Regular.svg#GraphikLCG-Regular') format('svg');
+        url('GraphikLCG-Regular.woff2') format('woff2'),
+        url('GraphikLCG-Regular.woff') format('woff'),
+        url('GraphikLCG-Regular.ttf') format('truetype'),
+        url('GraphikLCG-Regular.svg#GraphikLCG-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -90,7 +90,8 @@ header {
 
 .login__button_free {
     color: #FFF;
-    background-color: #FF6336;;
+    background-color: #FF6336;
+    ;
     border: 1px solid #FF6336;
     padding-left: 22px;
     padding-right: 22px;
@@ -125,8 +126,8 @@ header {
 }
 
 .local__buttons {
-    display: flex; 
-    align-items: stretch; 
+    display: flex;
+    align-items: stretch;
 }
 
 .local__button {
@@ -143,12 +144,13 @@ header {
 
 .local__button_free {
     color: #FFF;
-    background-color: #FF6336;;
+    background-color: #FF6336;
+    ;
     border: 1px solid #FF6336;
     padding-left: 42px;
     padding-right: 42px;
     margin-right: 10px;
-    
+
 }
 
 .local__desc_bottom {
@@ -361,7 +363,7 @@ header {
     background-color: #DABC98;
     padding-top: 80px;
     padding-bottom: 84px;
-    
+
 }
 
 .popularity__box {
@@ -382,7 +384,7 @@ header {
     line-height: 50px;
     margin-left: 67px;
     margin-right: 124px;
-  
+
 }
 
 .popularity__star_img {
@@ -468,7 +470,7 @@ header {
     font-size: 17px;
     font-weight: 600;
     line-height: 60px;
-    text-align: center;    
+    text-align: center;
     text-decoration: none;
     color: #FFF;
     background-color: #000;
@@ -529,11 +531,11 @@ header {
 }
 
 .footer-lists__item {
-    width: 200px;
+    width: 180px;
     font-weight: 600;
     font-size: 20px;
     line-height: 25px;
-    margin-right: 30px;
+    margin-right: 2030;
     margin-top: 11px;
     padding-bottom: 21px;
 }
@@ -594,6 +596,5 @@ header {
 .local__button_free:hover,
 .integration__button:hover,
 .question__button:hover {
-    color: #f29278; 
+    color: #f29278;
 }
-
