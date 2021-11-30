@@ -139,10 +139,21 @@
     .basic__item_img {
         max-width: 65%;
         text-align: center;
-
     }
 
+    .basic__item_img_1 {
+        order: 0;
+    }
 
+    .basic__item_img_2 {
+        order: 0;
+    }
+    .basic__item_img_3 {
+        order: 0;
+    }
+    .basic__item_img_4 {
+        order: 3;
+    }
 
     .basic__item {
         margin-left: 0;
@@ -295,6 +306,8 @@
 
     .question_subtitle {
         margin-top: 20px;
+        width: 40%;
+     
     }
 
     .question__button {
@@ -568,7 +581,9 @@
         width: 100%;
     }
 
-
+    .question__subtitle {
+        width: 60%;
+    }
 
 
     .examples {
